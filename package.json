@@ -1,0 +1,29 @@
+{
+  "type": "module",
+  "name": "web-dev-server",
+  "version": "1.0.0",
+  "description": "Node.js HTTP Web server for the Tuiter application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patricketka/web-dev-server.git"
+  },
+  "keywords": [
+    "Node",
+    "REST",
+    "Server",
+    "HTTP"
+  ],
+  "author": "Patrick Etka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patricketka/web-dev-server/issues"
+  },
+  "homepage": "https://github.com/patricketka/web-dev-server#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
